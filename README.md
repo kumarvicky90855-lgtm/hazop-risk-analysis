@@ -2,6 +2,8 @@
 
 HAZOP risk analysis and interactive dashboard to identify high-risk areas, recurring causes, and safety action priorities using Excel and Power Query.
 
+![Dashboard Preview](hazop_risk_analysis_dashboard_screenshot.png)
+
 ## Objective
 
 The objective of this project is to analyze HAZOP risk data, identify the areas with higher risk exposure, understand recurring causes, and track the progress and ownership of safety actions.
