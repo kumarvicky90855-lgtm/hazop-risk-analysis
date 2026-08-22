@@ -27,7 +27,7 @@ The dataset contains HAZOP-related information such as risk scores, equipment or
 * `01_HAZOP_Risk_Analysis_Uncleaned Dataset .xlsx` — raw HAZOP risk dataset
 * `02_Hazop_Risk_Analysis_Dahboard.xlsx` — interactive Excel dashboard
 * `03_Hazop_Risk_Analysis_Key_Finding_Business_Analysis.docx` — detailed key findings and business analysis
-
+* `04_Hazop_Risk_Analysis_Business_Report.docx` — final project report
 
 ## Methodology
 
