@@ -2,7 +2,7 @@
 
 HAZOP risk analysis and interactive dashboard to identify high-risk areas, recurring causes, and safety action priorities using Excel and Power Query.
 
-![Dashboard Preview](hazop_risk_analysis_dashboard_screenshot.png)
+![Dashboard Preview](loan_default_and_credit_risk_analysis_dashboard_screenshoot.png)
 
 ## Objective
 
